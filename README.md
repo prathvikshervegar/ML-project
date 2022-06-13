@@ -1,4 +1,4 @@
-# MALL CUSTOMER SEGMETATION
+# MALL CUSTOMER SEGMENTATION
 The main objective of our project is to study the dataset of Mall_Customers, 
 which is the data of customers who visit the mall and spend there. Then we 
 solve our targets by using unsupervised learning methods. 
